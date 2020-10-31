@@ -1,4 +1,4 @@
-#!/bin/bash  python
+#!/bin/bash  python3
 
 from bs4 import BeautifulSoup
 
