@@ -1,3 +1,5 @@
+#!/bin/bash  python
+
 from bs4 import BeautifulSoup
 
 import requests
